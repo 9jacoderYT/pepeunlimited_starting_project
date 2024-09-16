@@ -20,12 +20,10 @@ function App() {
       {/* Footer Component */}
       <Footer />
 
+
+
       {/* Floating Quote */}
-      <img
-        src="/assets/quote.png"
-        className="absolute bottom-[200px] right-[350px] w-96 rotate-12"
-        alt="Floating Quote"
-      />
+     
     </main>
   );
 }
